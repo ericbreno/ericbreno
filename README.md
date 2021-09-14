@@ -1,7 +1,32 @@
-### Hi there 👋
+### Hey there, I'm Eric
+<p>
+  <em></em>
+</p>
+ 
+<p align="left">
+  Languages: <strong>
+    JS (Angular, AngularJS, React, NodeJS), Java (Spring, EE), C#, Python, Shell
+  </strong>
+</p>
+<p align="left">
+  Skills: <strong>
+    Algorithms, Data Structures, Scripting, Web Scraping, System Design and some experience in competitive programming
+  </strong>
+</p>
+
+
+<p align="left">
+ Find me:
+</p>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericbreno/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ericbreno)
+
+<div>
+<a href="https://github.com/ericbreno"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericbreno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <!--
-**ericbreno/ericbreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

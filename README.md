@@ -5,12 +5,12 @@
  
 <p align="left">
   Languages: <strong>
-    JS (Angular, AngularJS, React, NodeJS), HTML + CSS, Java (Spring, EE), C#, Python, Shell
+    JS (Angular, AngularJS, React, NodeJS), HTML + CSS, Java (Spring, EE), C#, Python, Shell and SQL
   </strong>
 </p>
 <p align="left">
   Skills: <strong>
-    Algorithms, Data Structures, Scripting, Concurrent Programming, Web Scraping, System Design and some experience in competitive programming
+    Algorithms, Data Structures, Scripting, Concurrent Programming, Caching, AWS, Web Scraping, System Design and some experience in competitive programming
   </strong>
 </p>
 

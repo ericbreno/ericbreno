@@ -1,6 +1,8 @@
 ### Hey there, I'm Eric
 <p>
-  <em></em>
+  I work with web development since almost ever :D
+  <br>
+  Data structres, algorithms, concurrency and scripting are other passions of mine
 </p>
  
 <p align="left">
